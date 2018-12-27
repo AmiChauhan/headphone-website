@@ -1,0 +1,60 @@
+.homeimage {
+    background-image: url("../image/headphone.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.subtitle {
+    margin-top: 200px;
+    margin-left: 240px;
+    height: 80%;
+
+}
+
+.subtitle1 {
+    font-weight: bold;
+}
+
+.whitepagetext {
+    font-weight: lighter;
+
+}
+
+.orange {
+    background-color: #fac769;
+}
+.img1
+{
+    background-image: url("../image/headphone1.jpg");
+    background-size: cover;
+}
+.headphonebold
+{
+    font-weight: bold;
+}
+.button-rounded
+{
+    border-radius: 2em;
+
+}
+.numbercolor
+{
+    color: #fac769;
+}
+.numbertext
+{
+    margin-bottom: 50px;
+}
+.overno
+{
+    position: absolute;
+    top: 9%;
+}
+.footerimg
+{
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 70px;
+}
+
